@@ -1,0 +1,110 @@
+canonical_identifier: bkk:krp/KR6l0033/X/v1
+canonical_location: https://kanripo.org/bkk/KR6l0033/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 順正理論述文記
+  identifiers:
+    krp: KR6l0033
+    cbeta: X53n0843
+    cbeta_old_id: X53n0843
+    authorityid: CA0003198
+    json_key: X0843
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X53/X53n0843.xml
+    old_id: X53n0843
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6l0033_000-X.yaml, hash: 'sha256:42a47e5016483852dcb9b2bb39298fda9b5734cc6303f92e3bbfb1d742274969'}
+  - {seq: 9, filename: KR6l0033_009-X.yaml, hash: 'sha256:14e8598793e1da428d317a8ba5b9248c6dde6a8bb845304cc1127385f58c13e0'}
+  - {seq: 18, filename: KR6l0033_018-X.yaml, hash: 'sha256:b86e87dec2d5903fe6174aadaae0e4c0f6b48c4e8eb136bd9b94e5683e0af258'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6l0033_000-X.markers.yaml, hash: 'sha256:72fa2b0d69aaf2e458ba66bcf8c17ec42aba400b53ef6b058a7ae91435405176'}
+  - {seq: 9, role: markers, filename: assets/KR6l0033_009-X.markers.yaml, hash: 'sha256:774af4265bbf06e644f215c21fe05f85c9b1a89183963a09ba81eca358165410'}
+  - {seq: 18, role: markers, filename: assets/KR6l0033_018-X.markers.yaml, hash: 'sha256:f6b285782953c6f4b7eafccdd884cf9344fddf1ef6d02e2a13fbaae4afcde056'}
+table_of_contents:
+- ref:
+    seq: 9
+    marker_id: KR6l0033_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 22907
+  label: 順正理論述文記第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6l0033_X_009-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 釋第十二卷論
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6l0033_X_009-mulu-2
+    span:
+    - body
+    - 16158
+    - 16158
+  label: 釋第十三卷論
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6l0033_X_009-mulu-3
+    span:
+    - body
+    - 22781
+    - 22781
+  label: No. 843-A
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6l0033_X_018-juan-start
+    span:
+    - body
+    - 0
+    - 22720
+  label: 順正理論述文記第十八
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6l0033_X_018-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 釋第二十九卷論
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6l0033_X_018-mulu-2
+    span:
+    - body
+    - 11890
+    - 11890
+  label: 釋第三十卷論
+  type: mulu
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6l0033_X_018-mulu-3
+    span:
+    - body
+    - 22490
+    - 22490
+  label: No. 843-B
+  type: mulu
+  level: 1
+hash: sha256:d9b2efbcf6a1c233ea2a37f86bb71935015c7213dd41cde216c69ca194294170

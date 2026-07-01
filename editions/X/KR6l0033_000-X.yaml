@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6l0033/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 順正理論述文記
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X53/X53n0843.xml
+    old_id: X53n0843
+hash: sha256:42a47e5016483852dcb9b2bb39298fda9b5734cc6303f92e3bbfb1d742274969
